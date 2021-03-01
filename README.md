@@ -17,4 +17,4 @@ alguns pontos que precisam ser melhorados:
  - ui/ux design
  - reaproveitamento de código
  - escrever testes para a aplicação
- - criar interfaces (ex.: fazer requisições do login com email/senha ou biometrico ou facebook/google).
+ - criar interfaces (ex.: fazer requisições do login com email/senha ou biometrico ou facebook/google)
