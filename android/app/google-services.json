@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999258905191",
+    "project_id": "marvelvr-d936f",
+    "storage_bucket": "marvelvr-d936f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999258905191:android:e2a3f4731a75af5ddf92c2",
+        "android_client_info": {
+          "package_name": "br.mvr.marvel_vrsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999258905191-oh25bqaj6ohfveku2nh9n4e91qar75m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.mvr.marvel_vrsoft",
+            "certificate_hash": "21ebd32d87b8cc05827ed879f74db968a540dbb4"
+          }
+        },
+        {
+          "client_id": "999258905191-0p6gqcuh8td2odcn4msrc5ehtrdkgrk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRMML8rqBV2G6QlPOyVkPv0of0gWywbg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999258905191-0p6gqcuh8td2odcn4msrc5ehtrdkgrk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
