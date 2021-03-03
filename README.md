@@ -1,7 +1,3 @@
-
-Conforme conversado, estou trabalhando e precisei fazer uma viagem no final de semana.
-Tive pouco tempo para desenvolver o teste. De qualquer forma, agradeço a oportunidade!
-
 login:
 email: marvelvr@gmail.com
 senha: marvel
